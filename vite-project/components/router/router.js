@@ -1,7 +1,7 @@
 //Importamos todas las páginas
-import Cursos from "/Users/UsuarioM/Desktop/Desarrollo_Web/Web portalentodigital/Web-portalentodigital/vite-project/components/Pages/Cursos/Cursos";
-import Inicio from "/Users/UsuarioM/Desktop/Desarrollo_Web/Web portalentodigital/Web-portalentodigital/vite-project/components/Pages/Inicio/Inicio";
-import NotFound from "/Users/UsuarioM/Desktop/Desarrollo_Web/Web portalentodigital/Web-portalentodigital/vite-project/components/Pages//NotFound/NotFound";
+import Cursos from "/Users/UsuarioM/Desktop/Desarrollo_Web/Web-portalentodigital/vite-project/components/Pages/Cursos/Cursos/";
+import Inicio from "/Users/UsuarioM/Desktop/Desarrollo_Web/Web-portalentodigital/vite-project/components/Pages/Inicio/Inicio";
+import NotFound from "/Users/UsuarioM/Desktop/Desarrollo_Web/Web-portalentodigital/vite-project/components/Pages/NotFound/NotFound";
 
 //Creamos un array de objetos con las rutas y las paginas de cada una de las partes de la aplicación
 const routes = [

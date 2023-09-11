@@ -1,6 +1,9 @@
-import "./Cursos.css";
+import "./Main.css";
 
 
 const template = () => {
-    return `codigo para cursos`}
-const Inicio = () => 
+	return `<div class="CursosContainer"></div>
+  `;
+};
+
+export default Main;

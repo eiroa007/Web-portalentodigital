@@ -1,9 +1,10 @@
 import "./style.css";
 
-import Header from "./components/Header/Header";
-import Footer from "./components/Footer/Footer";
-import { router, addLinkListeners } from '/Users/UsuarioM/Desktop/Desarrollo_Web/Web portalentodigital/Web-portalentodigital/vite-project/components/router/router'
+import Header from "/Users/UsuarioM/Desktop/Desarrollo_Web/Web-portalentodigital/vite-project/components/Header/Header";
+import { router, addLinkListeners } from "/Users/UsuarioM/Desktop/Desarrollo_Web/Web-portalentodigital/vite-project/components/router/router";
+import Footer from "/Users/UsuarioM/Desktop/Desarrollo_Web/Web-portalentodigital/vite-project/components/Footer/Footer";
+
 Header()
-Footer()
 router()
 addLinkListeners()
+Footer()
