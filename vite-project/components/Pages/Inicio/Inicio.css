@@ -12,6 +12,7 @@ main {
   padding: 35px;
   width: 100vw;
   height: 75vh;
+  justify-content: center;
 }
 .LasImagenes > img {
   width: 100%;
